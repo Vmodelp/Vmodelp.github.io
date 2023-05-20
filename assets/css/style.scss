@@ -1,0 +1,43 @@
+$purple: #715AFF;
+$darkblue: #13101D;
+$brokenwhite: #FAFAFA;
+$metalicblue: #1848E8;
+
+
+
+body {
+    color: $darkblue;
+    background-color: $brokenwhite;
+    text-align: center;
+}
+
+.title {
+    color: $purple;
+    font-size: xx-large;
+    font-weight: bold;
+    padding-top: 0.8em;
+    font-family: "Akira";
+}
+
+.text {
+    color: $metalicblue;
+    font-size:medium;
+    font-family: "Gilroy";
+    padding-top: 12em;
+}
+
+.button{
+    font-size: x-small;
+    border: solid 2px $purple;
+    background-color: $darkblue;
+    color: $brokenwhite;
+    border-radius: 0.5em;
+    padding-inline: 5px 8px;
+}
+
+.comment {
+    font-family: "Gilroy";
+    font-size: x-small;
+    padding-top: 36em;
+}
+

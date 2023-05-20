@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Akira";
+    src: local("Akira"), url(~public/assets/fonts/Akira/Akira.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Gilroy";
+    src: local("Gilroy"), url(~public/assets/fonts/Gilroy/Gilroy.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Vogue";
+    src: local("Vogue"), url(~public/assets/fonts/Vogue/Vogue.ttf) format("truetype");
+}
