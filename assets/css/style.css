@@ -14,7 +14,7 @@ body {
 .title {
     color: var(--purple);
     font-weight: bold;
-    padding-top: 20em;
+    padding-top: 10em;
     font-family: "Akira";
 }
 
