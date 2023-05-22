@@ -13,9 +13,8 @@ body {
 
 .title {
     color: var(--purple);
-    font-size: xx-large;
     font-weight: bold;
-    padding-top: 0.8em;
+    padding-top: 20em;
     font-family: "Akira";
 }
 
@@ -23,7 +22,6 @@ body {
     color: var(--metalicblue);
     font-size:medium;
     font-family: "Gilroy";
-    padding-top: 12em;
 }
 
 .button{
