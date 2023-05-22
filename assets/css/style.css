@@ -14,7 +14,7 @@ body {
 .title {
     color: var(--purple);
     font-weight: bold;
-    padding-top: 15em;
+    padding-top: 13em;
     font-family: "Akira";
 }
 
@@ -36,6 +36,6 @@ body {
 .comment {
     font-family: "Gilroy";
     font-size: x-small;
-    padding-top: 20em;
+    padding-top: 18em;
 }
 
