@@ -20,13 +20,13 @@ body {
 
 .text {
     color: var(--metalicblue);
-    font-size:medium;
+    font-size:large;
     font-family: "Gilroy";
     text-align: center;
 }
 
 .button{
-    font-size: medium;
+    font-size: large;
     border: solid 2px var(--purple);
     background-color: var(--darkblue);
     color: var(--brokenwhite);
