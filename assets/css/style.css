@@ -14,7 +14,6 @@ body {
 .title {
     color: var(--purple);
     font-weight: bold;
-    padding-top: 13em;
     font-family: "Akira";
 }
 
@@ -25,17 +24,11 @@ body {
 }
 
 .button{
-    font-size: x-small;
+    font-size: normal;
     border: solid 2px var(--purple);
     background-color: var(--darkblue);
     color: var(--brokenwhite);
     border-radius: 0.5em;
     padding-inline: 5px 8px;
-}
-
-.comment {
-    font-family: "Gilroy";
-    font-size: x-small;
-    padding-top: 18em;
 }
 
