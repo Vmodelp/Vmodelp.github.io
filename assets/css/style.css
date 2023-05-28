@@ -12,21 +12,15 @@ body {
 
 .title {
     color: var(--purple);
-    font-weight: bold;
-    font-size: xx-large;
     font-family: "Akira";
-    text-align: center;
 }
 
 .text {
     color: var(--metalicblue);
-    font-size:large;
     font-family: "Gilroy";
-    text-align: center;
 }
 
 .button{
-    font-size: large;
     border: solid 2px var(--purple);
     background-color: var(--darkblue);
     color: var(--brokenwhite);
