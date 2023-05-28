@@ -22,7 +22,7 @@ body {
 
 .button{
     border: solid 2px var(--purple);
-    background-color: var(--darkblue);
+    background-color: var(--purple);
     color: var(--brokenwhite);
     border-radius: 0.5em;
     padding-inline: 5px 8px;
